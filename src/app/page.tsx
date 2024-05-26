@@ -21,7 +21,7 @@ export default function Home() {
               muted
               loop
               playsInline
-              className="h-full object-cover"
+              className="h-full w-full object-cover"
               src={video}
               key={video}
               initial={{ opacity: 0 }}
